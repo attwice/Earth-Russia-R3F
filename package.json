@@ -1,0 +1,35 @@
+{
+  "name": "earth-html-model",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@react-spring/three": "9.3.0",
+    "@react-three/drei": "7.22.0",
+    "@react-three/fiber": "7.0.19",
+    "@types/three": "0.134.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-error-boundary": "3.1.4",
+    "react-scripts": "4.0.3",
+    "three": "0.134.0"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.0",
+    "@types/react-dom": "17.0.0",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
